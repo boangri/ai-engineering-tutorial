@@ -1,3 +1,7 @@
+# AI engineering course
+
+https://www.youtube.com/watch?v=WIW5hN-hApQ
+
 ## Requirements
 
 - Python 3.12
